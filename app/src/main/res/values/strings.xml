@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name" translatable="false">30-Day Mindfulness Challenge</string>
+    <string name="Day_1_title" translatable="false">Day 1</string>
+    <string name="Day_1_heading" translatable="false">Practice kindness</string>
+    <string name="Day_1_content" translatable="false">take time to think pleasant things about others for 15-30 seconds</string>
+
+    <string name="Day_2_title" translatable="false">Day 2</string>
+    <string name="Day_2_heading" translatable="false">Take a break from technology</string>
+    <string name="Day_2_content" translatable="false">replace some of your screen time today with something that makes you feel more present</string>
+
+    <string name="Day_3_title" translatable="false">Day 3</string>
+    <string name="Day_3_heading" translatable="false">Record moments of happiness</string>
+    <string name="Day_3_content" translatable="false">write down happy moments as you feel it for 5-10 minutes</string>
+
+    <string name="Day_4_title" translatable="false">Day 4</string>
+    <string name="Day_4_heading" translatable="false">Listen to songs that make you happy</string>
+    <string name="Day_4_content" translatable="false">notice how different songs make you feel</string>
+
+    <string name="Day_5_title" translatable="false">Day 5</string>
+    <string name="Day_5_heading" translatable="false">Connect with family or friends</string>
+    <string name="Day_5_content" translatable="false">how does it make you feel to catch up with family or friends?</string>
+
+    <string name="Day_6_title" translatable="false">Day 6</string>
+    <string name="Day_6_heading" translatable="false">Focus on your breath</string>
+    <string name="Day_6_content" translatable="false">sit still, eyes closed or open, and concentrate on your inhale and exhale for 1 minute, 5x a day</string>
+
+    <string name="Day_7_title" translatable="false">Day 7</string>
+    <string name="Day_7_heading" translatable="false">Cultivate humility</string>
+    <string name="Day_7_content" translatable="false">embrace your humanness and grow your self-awareness. Write down 5 things to be grateful for</string>
+
+    <string name="Day_8_title" translatable="false">Day 8</string>
+    <string name="Day_8_heading" translatable="false">Read inspirational content</string>
+    <string name="Day_8_content" translatable="false">read uplifting, inspiring and positive books or articles</string>
+
+    <string name="Day_9_title" translatable="false">Day 9</string>
+    <string name="Day_9_heading" translatable="false">Smile in the mirror</string>
+    <string name="Day_9_content" translatable="false">give yourself positive affirmations, make peace with your insecurities and forgive yourself for having them</string>
+
+    <string name="Day_10_title" translatable="false">Day 10</string>
+    <string name="Day_10_heading" translatable="false">Practice sleep mediation</string>
+    <string name="Day_10_content" translatable="false">start by meditating for 3-5 minutes before bed. Remove all distractions from your room, including your phone. Lie down in a comfortable position and focus on your breathing</string>
+
+    <string name="Day_11_title" translatable="false">Day 11</string>
+    <string name="Day_11_heading" translatable="false">Evening gratitude journaling</string>
+    <string name="Day_11_content" translatable="false">write down the day’s things you are grateful for</string>
+
+    <string name="Day_12_title" translatable="false">Day 12</string>
+    <string name="Day_12_heading" translatable="false">Declutter one space</string>
+    <string name="Day_12_content" translatable="false">organize your clutter</string>
+
+    <string name="Day_13_title" translatable="false">Day 13</string>
+    <string name="Day_13_heading" translatable="false">Practice mindful driving</string>
+    <string name="Day_13_content" translatable="false">no noise, notice your surroundings</string>
+
+    <string name="Day_14_title" translatable="false">Day 14</string>
+    <string name="Day_14_heading" translatable="false">Stand, stretch and get moving</string>
+    <string name="Day_14_content" translatable="false">stand up, stretch your muscles and move around for a few minutes each hour</string>
+
+    <string name="Day_15_title" translatable="false">Day 15</string>
+    <string name="Day_15_heading" translatable="false">Take a music break</string>
+    <string name="Day_15_content" translatable="false">actively listen to music for a few minutes during your day</string>
+
+    <string name="Day_16_title" translatable="false">Day 16</string>
+    <string name="Day_16_heading" translatable="false">Take a break from television</string>
+    <string name="Day_16_content" translatable="false">turn off the television for a day</string>
+
+    <string name="Day_17_title" translatable="false">Day 17</string>
+    <string name="Day_17_heading" translatable="false">Stop multitasking</string>
+    <string name="Day_17_content" translatable="false">complete one item on your to-do list at a time</string>
+
+    <string name="Day_18_title" translatable="false">Day 18</string>
+    <string name="Day_18_heading" translatable="false">Practice a morning breathing exercise</string>
+    <string name="Day_18_content" translatable="false">breathe deeply for 30 seconds to one minute</string>
+
+    <string name="Day_19_title" translatable="false">Day 19</string>
+    <string name="Day_19_heading" translatable="false">Have a mindful shower</string>
+    <string name="Day_19_content" translatable="false">imagine the water washing away negativity and notice how it makes you feel</string>
+
+    <string name="Day_20_title" translatable="false">Day 20</string>
+    <string name="Day_20_heading" translatable="false">Define three daily goals</string>
+    <string name="Day_20_content" translatable="false">write down three things you need to do today</string>
+
+    <string name="Day_21_title" translatable="false">Day 21</string>
+    <string name="Day_21_heading" translatable="false">Recite positive affirmations</string>
+    <string name="Day_21_content" translatable="false">in the morning speak to yourself, who and how you want to be, using present tense</string>
+
+    <string name="Day_22_title" translatable="false">Day 22</string>
+    <string name="Day_22_heading" translatable="false">Disconnect</string>
+    <string name="Day_22_content" translatable="false">Put your phone away when eating dinner</string>
+
+    <string name="Day_23_title" translatable="false">Day 23</string>
+    <string name="Day_23_heading" translatable="false">Connect with nature</string>
+    <string name="Day_23_content" translatable="false">spend a few minutes outside</string>
+
+    <string name="Day_24_title" translatable="false">Day 24</string>
+    <string name="Day_24_heading" translatable="false">Engage in handwork</string>
+    <string name="Day_24_content" translatable="false">find ways to use your hands: needlework, carving quilting, art, woodworking, etc.</string>
+
+    <string name="Day_25_title" translatable="false">Day 25</string>
+    <string name="Day_25_heading" translatable="false">Meditate before bed</string>
+    <string name="Day_25_content" translatable="false">Practice a “shut-down” ritual 30 minutes before bed</string>
+
+    <string name="Day_26_title" translatable="false">Day 26</string>
+    <string name="Day_26_heading" translatable="false">Walking meditation</string>
+    <string name="Day_26_content" translatable="false">connect with the environment</string>
+
+    <string name="Day_27_title" translatable="false">Day 27</string>
+    <string name="Day_27_heading" translatable="false">Take a mental mini-vacation</string>
+    <string name="Day_27_content" translatable="false">visualize your perfect relaxation spot</string>
+
+    <string name="Day_28_title" translatable="false">Day 28</string>
+    <string name="Day_28_heading" translatable="false">Practice outcome-directed thinking</string>
+    <string name="Day_28_content" translatable="false">think about what you would like the desired outcome to be rather than perceived problems</string>
+
+    <string name="Day_29_title" translatable="false">Day 29</string>
+    <string name="Day_29_heading" translatable="false">Keep achievements diary</string>
+    <string name="Day_29_content" translatable="false">Write down your achievements at the end of the day</string>
+
+    <string name="Day_30_title" translatable="false">Day 30</string>
+    <string name="Day_30_heading" translatable="false">Tune in to your moods</string>
+    <string name="Day_30_content" translatable="false">evaluate your feelings and work to change them</string>
+
+    <string name="expand_button_content_description">Day content</string>
+</resources>
